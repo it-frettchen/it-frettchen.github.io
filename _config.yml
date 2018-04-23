@@ -114,9 +114,9 @@ url-pretty: "IT-Frettchen.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # whether or not you want to allow users to opt out of tracking.
 
 #matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+  site_id: "9"
+  uri: "demo.wiki.pro"
+  opt-out: true
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
