@@ -114,8 +114,8 @@ url-pretty: "IT-Frettchen.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # whether or not you want to allow users to opt out of tracking.
 
 #matomo:
-  site_id: "9"
-  uri: "demo.wiki.pro"
+  site_id: "6"
+  uri: "23.jscho.de"
   opt-out: true
 
 # --- Misc --- #
