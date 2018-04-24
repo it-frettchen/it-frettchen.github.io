@@ -24,11 +24,11 @@ description: Das pfiffige IT-Frettchen
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  #Technik: "technik"
-  #Links:
-   # - PC-Welt Netzmonitor: "https://play.google.com/store/apps/details?id=com.parizene.netmonitor"
-   # - Freifunk MSL: "https://freifunk-muensterland.de/"
-   # - Temperaturerfassung: "https://jscho.de/temp"
+  Technik: "technik"
+  Links:
+    - PC-Welt Netzmonitor: "https://play.google.com/store/apps/details?id=com.parizene.netmonitor"
+    - Freifunk MSL: "https://freifunk-muensterland.de/"
+    - Temperaturerfassung: "https://jscho.de/temp"
   Empfehlungen:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
