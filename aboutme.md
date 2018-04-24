@@ -4,14 +4,15 @@ title: About me
 subtitle: Watt macht dieses Getier eigentlich?
 ---
 
-My name is IT-Frettchen, some call it IT-Ferret. I have the following qualities:
+My name is IT-Frettchen, some might call me IT-Ferret. 
 
-- I rock a great mustache
-- I'm geeky as hell
+I have the following qualities:
 
-What else do you need?
+- I'm as curious as a cat
+- I'm geeky as a frettchen could be
+
+What else do you need? :D
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just wait.
-There'll be words here soon.
+I grew up with the 386 cpu, a gameboy without any colors and cats. 
