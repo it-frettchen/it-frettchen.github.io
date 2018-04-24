@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://it-frettchen.github.io"
+url: "https://it-frettchen.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -55,8 +55,8 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
- navbar-img: "/img/bgimage.png"
- footer-img: "/img/bgimage.png"
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "IT-Frettchen.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "IT-Frettchen.de"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -113,7 +113,7 @@ url-pretty: "IT-Frettchen.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-#matomo:
+matomo:
   site_id: "6"
   uri: "23.jscho.de"
   opt-out: true
