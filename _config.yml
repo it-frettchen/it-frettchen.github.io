@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: IT-Frettchen Internetz
+title: IT-Frettchen im Internetz
 
 # Short description of your site
 description: Das pfiffige IT-Frettchen
@@ -64,14 +64,14 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: it-frettchen
+  name: IT-Frettchen
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  rss: true
   email: "mail -at- it-frettchen.de"
   facebook: it-frettchen
   github: it-frettchen
@@ -94,7 +94,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: false
 
 # How to display the link to the website in the footer
