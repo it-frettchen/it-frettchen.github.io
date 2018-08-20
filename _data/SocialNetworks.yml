@@ -51,10 +51,10 @@ stackoverflow:
   baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
 
-snapchat:
-  name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
-  icon: "fa-snapchat-ghost"
+#snapchat:
+#  name: "Snapchat"
+#  baseURL: "https://www.snapchat.com/add/"
+#  icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
@@ -71,10 +71,10 @@ spotify:
   baseURL: "https://open.spotify.com/user/"
   icon: "fa-spotify"
 
-telephone:
-  name: "Phone"
-  baseURL: "tel:"
-  icon: "fa-phone"
+#telephone:
+#  name: "Phone"
+#  baseURL: "tel:"
+#  icon: "fa-phone"
 
 rss:
   name: "RSS"
@@ -91,7 +91,7 @@ twitch:
   baseURL: "https://www.twitch.tv/"
   icon: "fa-twitch"
 
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
+#yelp:
+#  name: "Yelp"
+#  baseURL: "https://{{ site.author.yelp }}.yelp.com"
+#  icon: "fa-yelp"
