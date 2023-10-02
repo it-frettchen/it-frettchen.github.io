@@ -3,7 +3,3 @@ layout: none
 permalink: .well-known/atproto-did
 ---
 did:plc:fq3o64cyie7womoo4xfncwfy
-
-#This files is used to verify my handle at bluesky. It enables my custom domain to use as my custom bluesky handle.
-
-Domain: it-frettchen.de
