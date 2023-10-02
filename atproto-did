@@ -5,3 +5,4 @@ permalink: .well-known/atproto-did
 This files is used to verify my handle at bluesky. It transforms my custom domain as my custom domain name handle.
 
 Domain: it-frettchen.de
+did:plc:fq3o64cyie7womoo4xfncwfy
