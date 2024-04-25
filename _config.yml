@@ -220,6 +220,7 @@ exclude:
   - screenshot.png
   - docs/
   - Vagrantfile
+  - fork-data/
 
 plugins:
   - jekyll-paginate
