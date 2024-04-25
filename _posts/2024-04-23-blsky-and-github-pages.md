@@ -8,7 +8,7 @@ tags: [blsky, bluesky, gh-pages]
 
 # Kleines HowTo  
 
-Falls euch eine eigene Domain gehört,könnt ihr diese als bluesky-handle verwenden, z.B. **it-frettchen.de**. Hier wird beschrieben wie ihr ein Github-Pages-Repo verwenden könnt.
+Falls euch eine eigene Domain gehört,könnt ihr diese als bluesky-handle verwenden, z.B. **@it-frettchen.de**. Hier wird beschrieben wie ihr ein Github-Pages-Repo umbaut, falls eure Webseite bereits dort liegt.
 
 ## Voraussetzungen  
 - Besitz einer Domain
@@ -31,7 +31,7 @@ Hier im Beispiel wird die Domain
 ## Im Git-Repo
 Den Identifier ,`did:plc:blablubb123`, braucht ihr, also kopiert euch den String und legt gleich eine Datei an unter:
 
-Dateiname: `atproto-did`
+Dateiname: `atproto-did`  
 Dateiendung: *keine*
 
 Mit diesem Inhalt:
@@ -44,7 +44,7 @@ permalink: .well-known/atproto-did
 did:plc:blablubb123blablubb
 ```
 
-Falls ihr Direkt-Zugriff auf euren Webspace habt, könnt ihr einfach diese Datei dort ablegen. Aber das geht hier nicht, da es eine Github-Pages-Seite ist (alles liegt im Repo).
+Falls ihr Direkt-Zugriff auf euren Webspace habt, könnt ihr einfach eine Datei dort ablegen _(unter .well-known/atproto-did)_. Aber das geht hier nicht, da es eine Github-Pages-Seite ist (alles liegt im Repo).
 
 
 ### Wozu ist diese Datei?
