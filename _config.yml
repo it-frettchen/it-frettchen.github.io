@@ -46,9 +46,9 @@ round-avatar: true
 social-network-links:
   email: "mail@it-frettchen.de"
   github: it-frettchen
-  twitter: itfrettchen
   instagram: it_frettchen
   mastodon: social.linux.pizza/@itfrettchen
+#  twitter: yourname
 #  telegram: yourname
 #  reddit: yourname
 #  stackoverflow: "3943160/daattali"
@@ -66,7 +66,7 @@ rss-description: Das pfiffige IT-Frettchen im Internetz
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   vk: false
   linkedin: false

@@ -1,11 +1,10 @@
-——-
-layout: post
+---
 title: Bluesky-handle mit gh-pages
 subtitle: Eigene domain als handle nutzen
 cover-img: /assets/img/bluesky-handle-example.jpeg
 share-img: /assets/img/it-ferret-icon.jpg
 tags: [blsky, bluesky, gh-pages]
-——-
+---
 
 # Kleines HowTo  
 
